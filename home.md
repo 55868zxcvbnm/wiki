@@ -2,10 +2,10 @@
 title: Home
 description: 
 published: true
-date: 2025-04-15T19:58:06.643Z
+date: 2025-04-21T20:47:31.828Z
 tags: 
 editor: markdown
-dateCreated: 2025-04-15T19:58:03.952Z
+dateCreated: 2025-04-16T23:16:51.814Z
 ---
 
 # 🏢 Bienvenido a la Documentación de Geotec
@@ -181,4 +181,6 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 <a href="/erp/lks_nuevo_logo-png_.png">
   <img src="/erp/lks_nuevo_logo-png_.png" style="max-width: 200px; cursor: zoom-in;">
 </a>
+
+
 
