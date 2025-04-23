@@ -1,11 +1,11 @@
 ---
-title: Introducción
+title: Inicio
 description: 
 published: true
-date: 2025-04-15T20:11:35.434Z
+date: 2025-04-23T22:40:17.906Z
 tags: 
 editor: markdown
-dateCreated: 2025-04-15T20:09:50.704Z
+dateCreated: 2025-04-23T22:06:33.646Z
 ---
 
 # ERP
