@@ -1,8 +1,8 @@
 ---
-title: Nuevo-Proveedor
+title: Nuevo Proveedor
 description: 
 published: true
-date: 2025-04-23T22:57:08.873Z
+date: 2025-04-23T23:00:17.364Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-23T22:57:08.873Z
